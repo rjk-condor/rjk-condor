@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjk-condor
 - 👀 I’m interested in developing web-applications
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning .net
 - 📫 How to reach me ... try via Condor Fluggesellschaft ... we love to fly
 
 <!---
